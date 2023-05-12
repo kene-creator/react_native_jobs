@@ -1,4 +1,4 @@
-export const ChnageImgURL = (url) => {
+export const ChangeImgURL = (url) => {
   if (!url) {
     return false;
   } else {
