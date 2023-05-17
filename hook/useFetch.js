@@ -32,9 +32,9 @@ export const useFetch = (endpoint, query) => {
     }
   };
 
-  //   useEffect(() => {
-  //     fetchData();
-  //   }, []);
+  // useEffect(() => {
+  //   fetchData();
+  // }, []);
 
   const refetch = () => {
     setLoading(true);
